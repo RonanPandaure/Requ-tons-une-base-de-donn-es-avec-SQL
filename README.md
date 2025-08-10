@@ -1,6 +1,6 @@
 # Requêtons une base de données avec SQL
 <h2>Description</h2>
-
+Analyser le marché des assurances habitation en réalisant des requêtes SQL sur une base de données créée à partir de fichiers CSV.
 
 <br />
 
